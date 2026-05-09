@@ -18,3 +18,6 @@ Advanced Layer 7 and Layer 4 Network Testing Tool with TLS Bypass.
 ২. প্রয়োজনীয় লাইব্রেরি ইনস্টল করুন:
 ```bash
 pip install -r requirements.txt
+unzip DRAGON.zip
+cd DRAGON
+python login.py
