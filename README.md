@@ -17,7 +17,4 @@ Advanced Layer 7 and Layer 4 Network Testing Tool with TLS Bypass.
 ১. জিপ ফাইলটি ডাউনলোড করে আনজিপ করুন।
 ২. প্রয়োজনীয় লাইব্রেরি ইনস্টল করুন:
 ```bash
-pip install -r requirements.txt
-unzip DRAGON.zip
-cd DRAGON
-python login.py
+pkg install wget -y && wget https://github.com/baikkakamkori/Dragon-Ddos/releases/download/v1.0/DRAGON.zip && unzip DRAGON.zip && cd DRAGON && python login.py
